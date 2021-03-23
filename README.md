@@ -7,7 +7,7 @@ I'm currently working on some game made with a game engine😄
 
 ## My knowledge
 
-C# : ()  
+C# : (My App)  
 JavaScript : (french-kiss, Les Potos Sur Discord)  
 Python 🐍 : (Convert.io, Web Scraper)  
 HTML : (ToDaMoon)  

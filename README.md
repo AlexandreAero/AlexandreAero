@@ -24,6 +24,8 @@ You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
 
 -french kiss : https://github.com/AlexandreAero/french-kiss
 
+-Python Basics :
+
 ✨*soon*✨
 
 <!--

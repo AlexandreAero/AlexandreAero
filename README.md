@@ -7,10 +7,10 @@ I'm currently working on some game made with a game engine😄
 
 ## My knowledge
 
-C# : ()
-JavaScript : ()
-Python 🐍 : (Convert.io)
-HTML : ()
+C# : ()  
+JavaScript : (french-kiss, Les Potos Sur Discord)  
+Python 🐍 : (Convert.io, Web Scraper)  
+HTML : (ToDaMoon)  
 
 ## How to reach me 📫?
 

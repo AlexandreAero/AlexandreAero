@@ -30,7 +30,7 @@ You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
 **-Python Basics :** https://github.com/AlexandreAero/Python-Basics  
 ↪️ Using Python for mathematics  
 
-**-My App :**   
+**-My App :** https://github.com/AlexandreAero/My-App  
 ↪️ A simple and very basic Windows form app  
 
 **-Les Potos Sur Discord :** https://github.com/AlexandreAero/Les-Potos-Sur-Discord  

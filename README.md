@@ -18,13 +18,17 @@ You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
 
 ## My projects 🌱
 
--Converto.io : https://github.com/AlexandreAero/Convertor.io
+-Converto.io : https://github.com/AlexandreAero/Convertor.io  
 
--Web Scraper : https://github.com/AlexandreAero/Web-Scraper
+-Web Scraper : https://github.com/AlexandreAero/Web-Scraper  
 
--french kiss : https://github.com/AlexandreAero/french-kiss
+-french kiss : https://github.com/AlexandreAero/french-kiss  
 
 -Python Basics :
+
+-My App : 
+
+-Les Potos Sur Discord : https://github.com/AlexandreAero/Les-Potos-Sur-Discord  
 
 ✨*soon*✨
 

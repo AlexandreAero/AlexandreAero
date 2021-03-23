@@ -5,9 +5,12 @@
 
 I'm currently working on some game made with a game engine😄
 
-I learned C# years ago⚡
+## My knowledge
 
-I am learning Python🐍, JavaScript and C++ 
+C# : ()
+JavaScript : ()
+Python 🐍 : (Convert.io)
+HTML : ()
 
 ## How to reach me 📫?
 

@@ -7,7 +7,7 @@ I'm currently working on some game made with a game engine😄
 
 I learned C# years ago⚡
 
-I am learning Python🐍 and C++ 
+I am learning Python🐍, JavaScript and C++ 
 
 ## How to reach me 📫?
 

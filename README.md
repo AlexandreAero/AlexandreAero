@@ -33,9 +33,6 @@ You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
 **-My App :** https://github.com/AlexandreAero/My-App  
 ↪️ A simple and very basic Windows form app  
 
-**-Les Potos Sur Discord :** https://github.com/AlexandreAero/Les-Potos-Sur-Discord  
-↪️ Another Discord bot, I won't update it anymore  
-
 **-ToDaMoon :** https://github.com/AlexandreAero/ToDaMonn  
 ↪️ HTML Webstie
 

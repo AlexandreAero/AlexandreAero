@@ -7,12 +7,6 @@ You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
 
 ## Learn more about what I'm working on 🔭
 
-## My knowledge
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreaero)](https://github.com/anuraghazra/github-readme-stats)
-
-## My projects 🌱
-
 **-Converto.io :** https://github.com/AlexandreAero/Convertor.io  
 ↪️ A simple convertor ton concert from decimal to binary and hexadecimal 
 
@@ -30,6 +24,14 @@ You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
 
 **-Cocodrile :** https://github.com/AlexandreAero/ToDaMonn  
 ↪️ HTML Webstie
+
+## My knowledge
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreaero)](https://github.com/anuraghazra/github-readme-stats)
+
+## My projects 🌱
+
+
 
 ## Stats
 

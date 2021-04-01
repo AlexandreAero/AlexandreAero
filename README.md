@@ -7,10 +7,14 @@ I'm currently working on some game made with a game engine😄
 
 ## My knowledge
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreaero)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
 C# : (My App)  
 JavaScript : (french-kiss, Les Potos Sur Discord)  
 Python 🐍 : (Convert.io, Web Scraper)  
-HTML : (ToDaMoon)  
+HTML : (ToDaMoon)  -->
 
 ## How to reach me 📫?
 
@@ -37,6 +41,10 @@ You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
 ↪️ HTML Webstie
 
 ✨*soon*✨
+
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandreaero&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlexandreAero/AlexandreAero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,15 +1,15 @@
 ## Hi there 👋
  Welcome to my GitHub profil! 
 
+## How to reach me 📫?
+
+You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
+
 ## Learn more about what I'm working on 🔭
 
 ## My knowledge
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreaero)](https://github.com/anuraghazra/github-readme-stats)
-
-## How to reach me 📫?
-
-You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
 
 ## My projects 🌱
 

@@ -13,22 +13,22 @@ You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
 
 ## Learn more about what I'm working on 🔭
 
-**-Converto.io :** https://github.com/AlexandreAero/Convertor.io  
+**-[Converto.io](https://github.com/AlexandreAero/Convertor.io) :** 
 ↪️ A simple convertor ton concert from decimal to binary and hexadecimal 
 
-**-Web Scraper :** https://github.com/AlexandreAero/Web-Scraper  
+**-[Web Scraper](https://github.com/AlexandreAero/Web-Scraper) :** 
 ↪️ A little to scrap web pages  
 
-**-french kiss :** https://github.com/AlexandreAero/french-kiss  
+**-[French Kiss](https://github.com/AlexandreAero/french-kiss) :** 
 ↪️ A Discord bot coded with many commands   
 
-**-Python Basics :** https://github.com/AlexandreAero/Python-Basics  
+**-[Python Basics](https://github.com/AlexandreAero/Python-Basics) :** 
 ↪️ Using Python for mathematics  
 
-**-CM Helper :** https://github.com/AlexandreAero/My-App  
+**-[CM Helper](https://github.com/AlexandreAero/french-kiss) :** 
 ↪️ A simple and very basic Windows form app  
 
-**-Cocodrile :** https://github.com/AlexandreAero/ToDaMonn  
+**-[Cocodrile](https://github.com/AlexandreAero/ToDaMonn) :** 
 ↪️ HTML Webstie
 
 <!--

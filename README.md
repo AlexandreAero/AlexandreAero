@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## My knowledge
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreaero&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreaero&layout=compact&langs_count=10&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to reach me 📫?
 

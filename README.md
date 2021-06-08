@@ -5,11 +5,6 @@ Welcome to my GitHub profile!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreaero&layout=compact&langs_count=10&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
-## How to reach me 📫?
-
-You can reach my via Discord : ✨*soon*✨ or via mail : ✨*soon*✨📫
-
-
 <!--
 **AlexandreAero/AlexandreAero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
